@@ -1,3 +1,5 @@
+// Sum of all numbers divisable by 3 or 5 
+// Solves https://projecteuler.net/problem=1
 package main
 
 import "fmt"
